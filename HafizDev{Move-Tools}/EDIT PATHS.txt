@@ -1,0 +1,2 @@
+SOURCE=C:\Users\Hafiz786\Desktop\MidTerm_Assignment
+DESTINATION=D:\MidTerm_Assignment
